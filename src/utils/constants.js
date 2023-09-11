@@ -23,3 +23,5 @@ export const SUPPORTED_LANGUAGE = [
   { identifer: "hindi", name: "Hindi" },
   { identifer: "gujarati", name: "Gujarati" },
 ];
+
+export const OPENAI_KEY = "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";

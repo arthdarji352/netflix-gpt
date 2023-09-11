@@ -38,6 +38,8 @@
 - GPT Search Page
 - GPT Search Bar
 - multi language feature in App (FEATURE)
+- Create GPT slice
+- fetch Search API
 
 - Login/signup
 
